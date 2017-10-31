@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\wechat\Pulish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/log4net.dll">
+      <publishTime>10/25/2017 09:05:16</publishTime>
+    </File>
+    <File Include="bin/WeiXin.Framework.Core.dll">
+      <publishTime>10/25/2017 09:15:18</publishTime>
+    </File>
+    <File Include="bin/WeiXin.Framework.Web.dll">
+      <publishTime>10/31/2017 17:47:19</publishTime>
+    </File>
+    <File Include="log4net.config">
+      <publishTime>10/25/2017 09:06:08</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/25/2017 09:05:16</publishTime>
+    </File>
+    <File Include="Test.html">
+      <publishTime>04/21/2013 19:44:40</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/25/2017 09:15:20</publishTime>
+    </File>
+    <File Include="WeiXinRequestHandler.ashx">
+      <publishTime>04/21/2013 19:38:40</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Web.dll
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Web.pdb
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Core.dll
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Core.pdb
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\obj\Debug\WeiXin.Framework.Web.csprojResolveAssemblyReference.cache
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\obj\Debug\WeiXin.Framework.Web.dll
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\obj\Debug\WeiXin.Framework.Web.pdb
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Web.dll.config
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Web.dll
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Web.pdb
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Core.dll
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Core.pdb
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\obj\Debug\WeiXin.Framework.Web.csprojResolveAssemblyReference.cache
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\obj\Debug\WeiXin.Framework.Web.dll
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\obj\Debug\WeiXin.Framework.Web.pdb
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\log4net.dll
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\log4net.xml

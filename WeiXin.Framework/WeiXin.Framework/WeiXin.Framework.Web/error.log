@@ -1,0 +1,26 @@
+[2017-10-25 09:13:20,203]  11 -- INFO  -- loginfo [WriteLog] -- http://localhost:21748/----参数：
+[2017-10-25 09:13:20,295]  13 -- INFO  -- loginfo [WriteLog] -- http://localhost:21748/----参数：
+[2017-10-25 09:13:20,295]  13 -- INFO  -- loginfo [WriteLog] -- http://localhost:21748/----参数：
+[2017-10-25 09:13:20,555]  11 -- INFO  -- loginfo [WriteLog] -- http://localhost:21748/favicon.ico----参数：
+[2017-10-25 09:13:34,302]  13 -- INFO  -- loginfo [WriteLog] -- http://localhost:21748/test.html----参数：
+[2017-10-25 09:13:39,754]  11 -- INFO  -- loginfo [WriteLog] -- http://localhost:21748/WeiXinRequestHandler.ashx----参数：weixinMsg:<xml>
+<ToUserName><![CDATA[toUser]]></ToUserName>
+<FromUserName><![CDATA[fromUser]]></FromUserName> 
+<CreateTime>1348831860</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[this is a test]]></Content>
+<MsgId>1234567890123456</MsgId>
+</xml>; 
+[2017-10-25 09:20:24,537]  7 -- INFO  -- loginfo [WriteLog] -- http://localhost:21748/----参数：
+[2017-10-25 09:20:24,567]  8 -- INFO  -- loginfo [WriteLog] -- http://localhost:21748/----参数：
+[2017-10-25 09:20:24,568]  8 -- INFO  -- loginfo [WriteLog] -- http://localhost:21748/----参数：
+[2017-10-25 09:24:28,567]  9 -- INFO  -- loginfo [WriteLog] -- http://localhost:21748/WeiXinRequestHandler.ashx?signature=8a11383a0b42229ddb42dc8cddfc19fb848083cf&timestamp=1508894315&nonce=438966032&openid=oeBcj04Dlene880BoEcxlq1YIOdQ----参数：
+[2017-10-25 09:26:08,113]  6 -- INFO  -- loginfo [WriteLog] -- http://localhost:21748/----参数：
+[2017-10-25 09:26:08,136]  6 -- INFO  -- loginfo [WriteLog] -- http://localhost:21748/----参数：
+[2017-10-25 09:26:08,136]  6 -- INFO  -- loginfo [WriteLog] -- http://localhost:21748/----参数：
+[2017-10-25 09:26:25,077]  7 -- INFO  -- loginfo [WriteLog] -- http://localhost:21748/WeiXinRequestHandler.ashx?signature=8a11383a0b42229ddb42dc8cddfc19fb848083cf&timestamp=1508894315&nonce=438966032&openid=oeBcj04Dlene880BoEcxlq1YIOdQ----参数：
+[2017-10-25 09:28:25,774]  6 -- INFO  -- loginfo [WriteLog] -- http://localhost:21748/WeiXinRequestHandler.ashx?signature=8a11383a0b42229ddb42dc8cddfc19fb848083cf&timestamp=1508894315&nonce=438966032&openid=oeBcj04Dlene880BoEcxlq1YIOdQ----参数：
+[2017-10-25 09:29:45,063]  9 -- INFO  -- loginfo [WriteLog] -- http://localhost:21748/----参数：
+[2017-10-25 09:29:45,089]  10 -- INFO  -- loginfo [WriteLog] -- http://localhost:21748/----参数：
+[2017-10-25 09:29:45,091]  10 -- INFO  -- loginfo [WriteLog] -- http://localhost:21748/----参数：
+[2017-10-25 09:31:45,615]  9 -- INFO  -- loginfo [WriteLog] -- http://localhost:21748/WeiXinRequestHandler.ashx?signature=8a11383a0b42229ddb42dc8cddfc19fb848083cf&timestamp=1508894315&nonce=438966032&openid=oeBcj04Dlene880BoEcxlq1YIOdQ----参数：

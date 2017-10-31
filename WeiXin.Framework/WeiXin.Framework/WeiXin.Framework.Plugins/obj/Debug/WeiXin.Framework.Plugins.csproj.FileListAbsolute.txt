@@ -1,0 +1,17 @@
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Web\bin\WeiXinPlugins\WeiXin.Framework.Plugins.dll
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Web\bin\WeiXinPlugins\WeiXin.Framework.Plugins.pdb
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXin.Framework.Plugins\obj\Debug\WeiXin.Framework.Plugins.csprojResolveAssemblyReference.cache
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXin.Framework.Plugins\obj\Debug\WeiXin.Framework.Plugins.dll
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXin.Framework.Plugins\obj\Debug\WeiXin.Framework.Plugins.pdb
+E:\example\WeiXin.Framework\Sys_Cms_Web\bin\WeiXinPlugins\WeiXin.Framework.Plugins.dll
+E:\example\WeiXin.Framework\Sys_Cms_Web\bin\WeiXinPlugins\WeiXin.Framework.Plugins.pdb
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Plugins\obj\Debug\WeiXin.Framework.Plugins.csprojResolveAssemblyReference.cache
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Plugins\obj\Debug\WeiXin.Framework.Plugins.dll
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Plugins\obj\Debug\WeiXin.Framework.Plugins.pdb
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXinPlugins\WeiXin.Framework.Plugins.dll
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXinPlugins\WeiXin.Framework.Plugins.pdb
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXinPlugins\WeiXin.Framework.Plugins.dll
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXinPlugins\WeiXin.Framework.Plugins.pdb
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Plugins\obj\Debug\WeiXin.Framework.Plugins.csprojResolveAssemblyReference.cache
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Plugins\obj\Debug\WeiXin.Framework.Plugins.dll
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Plugins\obj\Debug\WeiXin.Framework.Plugins.pdb

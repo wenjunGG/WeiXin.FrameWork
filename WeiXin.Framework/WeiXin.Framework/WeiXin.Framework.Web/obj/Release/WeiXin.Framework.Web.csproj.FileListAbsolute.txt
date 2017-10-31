@@ -1,0 +1,10 @@
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Web.dll.config
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Web.dll
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Web.pdb
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\log4net.dll
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Core.dll
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Core.pdb
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\bin\log4net.xml
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\obj\Release\WeiXin.Framework.Web.csprojResolveAssemblyReference.cache
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\obj\Release\WeiXin.Framework.Web.dll
+E:\wechat\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Web\obj\Release\WeiXin.Framework.Web.pdb
